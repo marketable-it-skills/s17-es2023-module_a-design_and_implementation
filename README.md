@@ -2,7 +2,7 @@
 
 ## Title of the Project
 
-Design & Implementation: Promo Website for ..
+Design & Implementation: Promo Website
 
 ## Skill domain(s)
 
@@ -14,7 +14,7 @@ This project task is based on test projects based on the EuroSkills Gdansk 2023 
 
 ## Content
 
-- [Project Descriptiom](project-description.md)
+- [Project Description](project-description.md)
 - [Media Files](tree/main/src//assets)
 
 ## About the Project
