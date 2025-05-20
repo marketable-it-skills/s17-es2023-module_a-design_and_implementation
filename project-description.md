@@ -11,7 +11,7 @@ as it will be used to attract new users for a product of the client.
 Responsiveness is also important and the website should look good on three different viewports:
 mobile, tablet, and desktop.
 
-The client will supply the competitors with a defined website structure and will therein define all
+The client will supply you with a defined website structure and will therein define all
 the pages and sections of the website. The client will also provide all content for the website,
 such as text, images, and other media, as well as the exact definitions of the
 responsive breakpoints.
@@ -79,7 +79,7 @@ All elements can be enriched with more information where it makes sense.
 
 ## Assessment
 
-Module A will be assessed using Google Chrome and Firefox.
+The project will be assessed using Google Chrome and Firefox.
 The axe browser extension is installed in Google Chrome and allows competitors to validate the website according to the accessibility standards WCAG.
 
 ## Mark distribution
