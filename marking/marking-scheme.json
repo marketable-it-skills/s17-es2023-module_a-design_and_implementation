@@ -1,5 +1,8 @@
 {
-  "totalMark": 2,
+  "totalMark": 17,
+  "wsosSections": {
+    "1": "Work organization and self-management"
+  },
   "subCriterions": [
     {
       "name": "Website Layout",
@@ -7,7 +10,7 @@
         {
           "type": "judgement",
           "description": "Common website elements (header, navigation, footer) are responsive",
-          "requirement": "",
+          "wsosSection": 1,
           "judgementScoreDescription": [
             "All common elements are not responsive at all",
             "At least one common element is responsive when changing between the defined viewports",
@@ -28,9 +31,10 @@
           "maxMark": 1
         },
         {
-          "type": "measurment",
+          "type": "measurement",
           "description": "Header, Navigation, and Footer are on all pages",
           "extraDescription": "Header, Navigation, and Footer elements are on all pages and looking the same on all pages (except highlighting of the current active link is allowed)",
+          "requirement": "",
           "maxMark": 0.5
         }
       ]
