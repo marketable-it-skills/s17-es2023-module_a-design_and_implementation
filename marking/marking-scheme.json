@@ -35,13 +35,41 @@
           "description": "Header, Navigation, and Footer are on all pages",
           "extraDescription": "Header, Navigation, and Footer elements are on all pages and looking the same on all pages (except highlighting of the current active link is allowed)",
           "requirement": "",
+          "calculation": {
+            "type": "options",
+            "options": [
+              {
+                "value": 0,
+                "description": "Header, Navigation, and Footer elements are not on all pages"
+              },
+              {
+                "value": 0.25,
+                "description": "Header, Navigation, and Footer elements are on all pages but not looking the same on all pages"
+              },
+              {
+                "value": 0.5,
+                "description": "Header, Navigation, and Footer elements are on all pages and looking the same on all pages (except highlighting of the current active link is allowed)"
+              }
+            ]
+          },
           "maxMark": 0.5
         }
       ]
     },
     {
       "name": "Website design",
-      "aspects": []
+      "aspects": [
+        {
+          "type": "measurement",
+          "description": "Home page contains required information",
+          "extraDescription": "Product name, product image, links to product & pricing pages",
+          "requirement": "",
+          "calculation": {
+            "type": "true-or-false"
+          },
+          "maxMark": 0.5
+        }
+      ]
     },
     {
       "name": "Standards",
