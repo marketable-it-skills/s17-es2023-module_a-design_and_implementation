@@ -8,7 +8,7 @@ The task is to build a promotional website using only HTML and CSS that promotes
 
 ## Task Origin
 
-This project task is based on test projects based on the EuroSkills Gdansk 2023 competition Module-A test project submitted by Cyril Wanner (CH) and Sebastian Häni (CH). Tasks from these competitions are updated, modularized, and standardized to form the basis of the project task repository within the Erasmus+ "Marketable IT Skills" project.
+This project task is based on test projects based on the **EuroSkills Gdansk 2023** competition **Module-A test project** submitted by **Cyril Wanner (CH)** and **Sebastian Häni (CH)**. Tasks from these competitions are updated, modularized, and standardized to form the basis of the project task repository within the Erasmus+ "Marketable IT Skills : **Integrating Real-World Challenges into Vocational Education"** project.
 
 ## Content
 
