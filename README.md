@@ -1,8 +1,6 @@
-# Marketable IT Skills Project Repository
+# AI-driven API Service Promo Website
 
-## Title of the Project
-
-Design & Implementation: Promo Website
+The task is to build a promotional website using only HTML and CSS that promotes a set of AI-driven API services.
 
 ## Skill domain(s)
 
