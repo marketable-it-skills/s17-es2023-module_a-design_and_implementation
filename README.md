@@ -13,7 +13,7 @@ This project task is based on test projects based on the EuroSkills Gdansk 2023 
 ## Content
 
 - [Project Description](project-description.md)
-- [Media Files](tree/main/src/assets)
+- [Media Files](tree/main/assets)
 - [How to Develop and Deploy the Project?](development-and-deployment.md)
 
 ## About the MITS Project
