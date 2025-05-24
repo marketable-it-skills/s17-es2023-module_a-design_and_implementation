@@ -1,18 +1,32 @@
 {
-    "id": 2
-    "name": "EuroSkills 2023 S17 - Module A",
-    "displayName": "AI-driven API Service Promo Website",
+    "id": 1,
+    "name": "ES2023 S17 - Module A",
+    "displayName": "AI Services Promo Website",
     "description": "The task is to build a promotional website using only HTML and CSS that promotes a set of AI-driven API services.",
     "url": "https://github.com/marketable-it-skills/s17-es2023-module_a-design_and_implementation",
-    "skillDomains": ["Web Technologies"],
+    "skillDomainIds": [
+        1
+    ],
     "competition": "EuroSkills Gdansk 2023",
-        "technologies": [
+    "estTime": 4,
+    "authors": [
+        {
+            "name": "Cyril Wanner",
+            "url": "https://www.linkedin.com/in/cyrilwanner"
+        },
+        {
+            "name": "Sebastian Häni",
+            "url": "https://www.linkedin.com/in/sebastian-haeni/"
+        }
+    ],
+    "technologies": [
         "HTML",
-        "CSS"
+        "CSS",
+        "JavaScript"
     ],
     "tags": [
-        "implementation",
         "frontend",
-        "EuroSkills"
+        "design implementation",
+        "design"
     ]
 }
