@@ -1,4 +1,4 @@
-# How to develop and deploy the project?
+## How to develop and deploy the project?
 
 1. Create a new GitHub repository based on the following template repository: [https://github.com/marketable-it-skills/mits-html-and-vanila-js-v1](https://github.com/marketable-it-skills/mits-html-and-vanila-js-v1)
 2. Create your solution in the `/src` folder.
