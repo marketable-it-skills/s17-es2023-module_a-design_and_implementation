@@ -65,7 +65,7 @@
           "extraDescription": "Product name, product image, links to product & pricing pages",
           "requirement": "",
           "calculation": {
-            "type": "true-or-false"
+            "type": "pass-or-fail"
           },
           "maxMark": 0.5
         }
