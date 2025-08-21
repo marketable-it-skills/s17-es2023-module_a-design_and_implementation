@@ -109,92 +109,9 @@
           "wsosSection": 3,
           "extraDescription": "The footer includes a copyright notice",
           "calculation": {
-            "type": "pass-or-fail"
-          }
-        },
-        {
-          "type": "judgement",
-          "description": "Home page design",
-          "maxMark": 1,
-          "wsosSection": 3,
-          "judgementScoreDescription": [
-            "Not implemented or is not styled",
-            "Page has basic styling implemented",
-            "Catches the users attention (sells the product well), but the design is not always polished or clear",
-            "Has a clear and polished design, it is very clear to the user what the product is about"
-          ]
-        },
-        {
-          "type": "judgement",
-          "description": "Product page design",
-          "maxMark": 1,
-          "wsosSection": 3,
-          "judgementScoreDescription": [
-            "Not implemented or is not styled",
-            "Page has basic styling implemented",
-            "Shows the required information in a well structured and clean way, but the design is not always polished",
-            "Has a clear and polished design, it is very clear to the user what the product is about"
-          ]
-        },
-        {
-          "type": "judgement",
-          "description": "Pricing page design",
-          "maxMark": 1,
-          "wsosSection": 3,
-          "judgementScoreDescription": [
-            "Not implemented or is not styled",
-            "Page has basic styling implemented",
-            "Explains the pricing well in an understandable way, but the design is not always polished",
-            "Has a clear and polished design, it is very clear to the user how the pricing works"
-          ]
-        },
-        {
-          "type": "judgement",
-          "description": "Team page design",
-          "maxMark": 1,
-          "wsosSection": 3,
-          "judgementScoreDescription": [
-            "Not implemented or is not styled",
-            "Page has basic styling implemented",
-            "Shows the required information in a well structured and clean way, but the design is not always polished",
-            "Has a clear and polished design"
-          ]
-        },
-        {
-          "type": "judgement",
-          "description": "Navigation contains easily accessible links",
-          "maxMark": 0.5,
-          "wsosSection": 3,
-          "judgementScoreDescription": [
-            "The navigation does not include all links",
-            "The navigation includes all links: home, product, pricing, team",
-            "All links are easily accessible and good looking",
-            "The navigation design feels clean and modern and it is clear on which page the user currently is"
-          ]
-        },
-        {
-          "type": "judgement",
-          "description": "Color palette is suitable",
-          "maxMark": 0.5,
-          "wsosSection": 3,
-          "judgementScoreDescription": [
-            "Colors do not match at all",
-            "Colors are simple but do not set accents",
-            "Color palette matches the use case and sets accents",
-            "Color palette matches the use case, sets accents, and is outstanding"
-          ]
-        },
-        {
-          "type": "judgement",
-          "description": "Use of whitespace",
-          "maxMark": 0.5,
-          "wsosSection": 3,
-          "judgementScoreDescription": [
-            "Use of nothing, little or lots of white space strongly impairs the readability and identifiation of the elements and content",
-            "Many problems or inconsistency can be found in the use of white space",
-            "Just a few problems or inconsistency can be found in the use of white space",
-            "Excellent use of white space permit an easy identification of elements and content"
-          ]
+            "type": "true-or-false"
+          },
+          "maxMark": 0.5
         }
       ]
     },

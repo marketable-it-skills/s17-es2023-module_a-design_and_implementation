@@ -1,5 +1,9 @@
 # Test Project Outline – Module A – Static Website Design
 
+## Competition time
+
+3 hours
+
 ## Introduction
 
 This project will focus on the creation of a static website using HTML and CSS only. You are asked to create a static website for a specified client.
