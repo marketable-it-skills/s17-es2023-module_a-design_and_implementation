@@ -2,7 +2,7 @@
     "id": 1,
     "name": "ES2023 S17 - Module A",
     "displayName": "AI Services Promo Website",
-    "description": "The task is to build a promotional website using only HTML and CSS that promotes a set of AI-driven API services.",
+    "description": "This project involves creating a static, responsive website using only HTML and CSS, based on a client-provided structure and content. It must include four pages, follow accessibility (WCAG) and SEO standards, and work across mobile, tablet, and desktop viewports.",
     "url": "https://github.com/marketable-it-skills/s17-es2023-module_a-design_and_implementation",
     "skillDomainIds": [
         1
